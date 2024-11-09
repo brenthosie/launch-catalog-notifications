@@ -1,0 +1,9 @@
+.DS_Store
+.settings/
+.buildpath
+.project
+vendor/
+src/bin/cache/Extensions.txt
+src/config/*.php
+!src/config/production.php
+!src/config/default.php
